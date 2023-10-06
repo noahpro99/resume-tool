@@ -1,0 +1,75 @@
+{
+    "Personal Details": {
+      "Full Name": "<Full Name>",
+      "Address": "<Address>",
+      "Email": "<Email Address>",
+      "Phone": "<Phone Number>"
+    },
+    "Objective": "<Career Objective Statement>",
+    "Education": [
+      {
+        "Institution": "<Institution Name>",
+        "Location": "<Location>",
+        "Duration": "<From Year> - <To Year>",
+        "Degree": "<Degree Type>",
+        "Major": "<Major if applicable>",
+        "GPA": "<GPA>"
+      }
+    ],
+    "Honors & Awards": [
+      {
+        "Award Name": "<Award or Honor>",
+        "Date": "<Date or Duration>",
+        "Description": "<Optional Description>"
+      }
+    ],
+    "Professional Experience": [
+      {
+        "Company Name": "<Company/Organization Name>",
+        "Role": "<Job Role/Title>",
+        "Duration": "<From Date> - <To Date>",
+        "Description": "<Job Description>"
+      }
+    ],
+    "Extracurricular Activities": [
+      {
+        "Organization Name": "<Organization Name>",
+        "Role": "<Role in Organization>",
+        "Duration": "<From Date> - <To Date>",
+        "Description": "<Activity Description>"
+      }
+    ],
+    "Volunteer Work": [
+      {
+        "Organization Name": "<Organization Name>",
+        "Location": "<Location>",
+        "Duration": "<From Date> - <To Date>",
+        "Role": "<Role>",
+        "Description": "<Description>"
+      }
+    ],
+    "Skills & Competencies": {
+      "Technical": "<Technical Skills>",
+      "Languages": "<Languages Known>",
+      "Software": "<Software Proficiency>",
+      "Others": "<Other Relevant Skills>"
+    },
+    "Certifications": [
+      {
+        "Certification Name": "<Certification>",
+        "Issuing Authority": "<Issuing Body>",
+        "Date Obtained": "<Date>",
+        "Description": "<Optional Description>"
+      }
+    ],
+    "References": [
+      {
+        "Name": "<Reference Name>",
+        "Title": "<Title>",
+        "Company": "<Company>",
+        "Email": "<Email Address>",
+        "Phone": "<Phone Number>"
+      }
+    ]
+  }
+  

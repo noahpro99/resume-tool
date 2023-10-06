@@ -1,0 +1,48 @@
+{
+    "Company Overview": {
+      "Name": "<Company Name>",
+      "Background": "<Brief Overview or Mission Statement>"
+    },
+    "Company Culture": {
+      "Values": [
+        "<Core Value 1>",
+        "<Core Value 2>",
+        "..."
+      ],
+      "Environment": "<Description of the Working Environment>"
+    },
+    "Diversity Statement": "<Statement Regarding Inclusivity and Diversity>",
+    
+    "Position Overview": {
+      "Title": "<Job Title>",
+      "Role Summary": "<Brief Overview of the Role>",
+      "Key Responsibilities": [
+        "<Responsibility 1>",
+        "<Responsibility 2>",
+        "..."
+      ],
+      "Requirements": {
+        "Must-Have": [
+          "<Essential Requirement 1>",
+          "<Essential Requirement 2>",
+          "..."
+        ],
+        "Preferred": [
+          "<Preferred Requirement 1>",
+          "<Preferred Requirement 2>",
+          "..."
+        ]
+      }
+    },
+    
+    "Benefits and Compensation": {
+      "List": [
+        "<Benefit or Compensation Element 1>",
+        "<Benefit or Compensation Element 2>",
+        "..."
+      ],
+      "Overview": "<General Statement or Overview of Benefits>"
+    } 
+    
+  }
+  

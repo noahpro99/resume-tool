@@ -1,0 +1,58 @@
+{
+    "Personal Details": {
+        "Full Name": "Leo Leopard",
+        "Address": "555 La Verne Way, La Verne, CA",
+        "Email": "lleopard@laverne.edu",
+        "Phone": "(909) 555-5555"
+    },
+    "Objective": "To obtain an on-campus position serving my fellow students which utilizes my strong communication skills.",
+    "Education": [
+        {
+            "Institution": "University of La Verne",
+            "Location": "La Verne, CA",
+            "Duration": "Expected Graduation: June 2016",
+            "Degree": "Bachelor of Arts, Business Administration",
+            "GPA": "3.5"
+        }
+    ],
+    "Honors & Awards": [
+        {
+            "Award Name": "Dean\u2019s List",
+            "Date": "Fall 2013 - Spring 2014",
+            "Description": ""
+        }
+    ],
+    "Professional Experience": [
+        {
+            "Company Name": "Enactus, University of La Verne",
+            "Role": "Member",
+            "Duration": "August 2013 - Present",
+            "Description": "\u2022 Implement collective ideas to sponsor campus and community events which promote educational and social change\n\u2022 Led groups of 9 junior high students in discussion on success skills, business ethics, and personal finances\n\u2022 Co-designed 17 minute audio-visual presentation accurately and creatively describing project for use in regional and national competition"
+        }
+    ],
+    "Extracurricular Activities": [],
+    "Volunteer Work": [
+        {
+            "Organization Name": "LionLike MindState, Pomona, CA",
+            "Location": "",
+            "Duration": "June 2012 - Present",
+            "Role": "Volunteer",
+            "Description": "\u2022 Plan two yearly outreach events to highlight community members\u2019 creativity in spoken word, poetry, music, and art"
+        },
+        {
+            "Organization Name": "YMCA, Pomona, CA",
+            "Location": "",
+            "Duration": "Summer 2013, 2014",
+            "Role": "Volunteer Swim Coach",
+            "Description": "\u2022 Instructed classes of up to 15 children on basic swimming skills\n\u2022 Communicated regularly with parents on children\u2019s progress"
+        }
+    ],
+    "Skills & Competencies": {
+        "Technical": "Proficient in Windows and Mac OS, Microsoft Word, PowerPoint, and Excel",
+        "Languages": "Fluent in Spanish",
+        "Software": "",
+        "Others": ""
+    },
+    "Certifications": [],
+    "References": []
+}
