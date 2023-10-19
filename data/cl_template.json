@@ -1,0 +1,45 @@
+{
+    "Cover Letter": {
+        "Contact Information": {
+            "Date": "<Date of Letter>",
+            "Your Name": "<Your Full Name>",
+            "Your Address": "<Your Address>",
+            "Your Email": "<Your Email Address>",
+            "Your Phone": "<Your Phone Number>",
+            "Recipient Name": "<Recipient's Name>",
+            "Recipient Title": "<Recipient's Title>",
+            "Company Name": "<Company Name>",
+            "Company Address": "<Company Address>"
+        },
+        "Salutation": {
+            "Recipient Name": "Dear <Recipient's Name>:"
+        },
+        "Opening Paragraph": {
+            "Purpose": "I am writing to express my interest in the <Job Position/Type of Work> position at <Company Name>.",
+            "Position Discovery": "I learned about this opportunity through <Source/Platform>.",
+            "Key Skills Highlight": "With my experience in <Specific Skill/Experience 1>, <Specific Skill/Experience 2>, and <Specific Skill/Experience 3>, I believe I'm a suitable candidate for this role."
+        },
+        "Middle Paragraph(s)": {
+            "Skill & Experience Showcase": [
+                {
+                    "Skill or Experience": "<Specific Skill or Experience 1>",
+                    "Example": "For instance, during my tenure at <Previous Company/Organization>, I <Specific Accomplishment/Task>."
+                },
+                {
+                    "Skill or Experience": "<Specific Skill or Experience 2>",
+                    "Example": "Additionally, I successfully <Specific Task> at <Event/Organization>."
+                }
+            ],
+            "Interest in Employer": "I am drawn to <Company Name> because of <Specific Reason such as Company Culture/Project/Reputation>. Furthermore, I'm particularly interested in <Specific Aspect of the Job or Department>."
+        },
+        "Closing Paragraph": {
+            "Reaffirm Interest": "I am keen to bring my skills and expertise to <Company Name> and contribute to <Specific Project or Objective>.",
+            "Thank You": "Thank you for considering my application.",
+            "Contact Details": "I can be reached at <Your Email Address> or <Your Phone Number> and am available for an interview at your earliest convenience."
+        },
+        "Sign-off": {
+            "Courtesy Close": "Sincerely",
+            "Your Name Typed": "<Your Full Name>"
+        }
+    }
+}

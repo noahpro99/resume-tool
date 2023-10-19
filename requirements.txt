@@ -1,3 +1,5 @@
 PyPDF2
 openai
 python-dotenv
+qdrant_client
+pandas
