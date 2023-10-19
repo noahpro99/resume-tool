@@ -7,7 +7,7 @@ use sha2::Sha256;
 use std::error::Error;
 mod config;
 mod endpoints;
-use migration::{Migrator, MigratorTrait};
+// use migration::{Migrator, MigratorTrait};
 mod entity;
 
 #[tokio::main]
@@ -22,7 +22,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
     tracing_subscriber::fmt::init();
 
-    let api_services = (endpoints::auth::AuthApi, endpoints::tasks::TaskApi);
+    let api_services = (endpoints::auth::AuthApi);
 
     let api_service = OpenApiService::new(api_services, "ai-assistant", "1.0")
         .server("http://localhost:5000/api");
